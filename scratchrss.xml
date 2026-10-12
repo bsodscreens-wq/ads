@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+  <channel>
+    <!-- Main website / Feed information -->
+    <title>Scratch ADS</title>
+    <link>https://scratch.mit.edu/users/BSOD1234/</link>
+    <description>Welcome to BSOD1234!</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Oct 2026 09:00:00 GMT</lastBuildDate>
+
+    <!-- Item 1: A blog article -->
+    <item>
+      <title>ADnoids</title>
+      <link>https://scratch.mit.edu/projects/1389663789</link>
+      <guid isPermaLink="true">https://scratch.mit.edu/projects/1389663789</guid>
+      <pubDate>Mon, 12 Oct 2026 08:00:00 GMT</pubDate>
+    <description>Space or Tap to Shoot!</description>
+    </item>
+
+    <!-- Item 2: Another blog article -->
+    <item>
+      <title>Error Dash</title>
+      <link>https://scratch.mit.edu/projects/1390331548</link>
+      <guid isPermaLink="true">https://scratch.mit.edu/projects/1390331548</guid>
+      <pubDate>Mon, 12 Oct 2026 14:30:00 GMT</pubDate>
+      <description>Tap or Space to Jump! Lag Warning!</description>
+    </item>
+
+  </channel>
+
+</rss>
